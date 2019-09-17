@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelavent variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/jdv/rapid-api/rapid-api-practice/env"
+VIRTUAL_ENV="/home/jdv/rapid-api-practice/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
