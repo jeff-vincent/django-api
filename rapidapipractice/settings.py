@@ -27,7 +27,7 @@ SECRET_KEY = '9z7r4x#y4_qlnsnc9$ov5-p-jx$!=6)qcrvz-4&jv-=h7_mg*#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rapid-api-practice.herokuapp.com']
 
 APPEND_SLASH = False
 
